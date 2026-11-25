@@ -100,3 +100,5 @@ phonepe-payment-insights-powerbi/
 **Om Danej**
 Aspiring Data Analyst | SQL | Power BI | Python
 [LinkedIn](https://linkedin.com/in/om-danej-analytics) | [GitHub](https://github.com/omdanej1122-afk) | omdanej1122@gmail.com
+
+<img width="960" height="522" alt="image" src="https://github.com/user-attachments/assets/d17548c6-f794-44f2-a5ff-190c1d9f44c6" />
